@@ -10,6 +10,18 @@ public class DemoPrueba {
 		System.out.println("4ta ETAPA");
 		System.out.println("5ta ETAPA");
 		
+		
+		
+		
+		
+		System.out.println("6ra ETAPA");
+		System.out.println("7da ETAPA");
+		System.out.println("8ra ETAPA");
+		System.out.println("9ta ETAPA");
+		System.out.println("10ta ETAPA");
+		
+		
+		
 	}
 
 }
